@@ -1,4 +1,8 @@
-## Welcome to GitHub Pages
+## About Me
+
+Greetings!
+
+I am an associate profession in School of Economics and Management at Beijing University of Technology. I am also a Postdoctoral Fellow at Center for Polymer Studies and Department of Physics at Boston University. My research focuses on metaheuristics in optimization problem and Econophysics. I conducted his Doctoral study in Management Science and Engineering at Beijing Jiaotong University (BJTU). I received my Ph.D. from BJTU (2015) with joint training by the Purdue University (2013&2014).
 
 You can use the [editor on GitHub](https://github.com/chaowanghn/chaowanghn.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
